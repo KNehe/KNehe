@@ -1,7 +1,7 @@
 <img src="https://github.com/KNehe/KNehe/blob/main/readme_header%20-%20Copy.png?raw=true" alt="banner that says Nehemiah Kamolu, Software Engineer">
 
 ### Hi there 👋
-#### <iv>I'm Nehemiah, a full-stack developer who has been coding since 2016 🚀. My top tools are Django and ExpressJs for my back-end tasks, ReactJs and Flutter for the front-end.I find software development fascinating. </div>  
+#### <iv>I'm Nehemiah, a devoted software developer who enjoys learning new skills that can be used to develop functional, appealing, custom-made web products and services.</div>  
 
 - 🔭 I’m currently working on [swimmy](https://github.com/knehe/swimmy)
 - 🌱 I’m currently learning Nginx and Docker
