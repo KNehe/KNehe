@@ -3,7 +3,8 @@
 ### Hi there 👋
 #### <iv>I'm Nehemiah, a devoted software developer who enjoys learning new skills that can be used to develop functional, appealing, custom-made web products and services.</div>  
 
-- 🔭 I’m currently working on [swimmy](https://github.com/knehe/swimmy)
+- 🔭 I’m currently working on [liveup api](https://github.com/KNehe/liveup_api
+) and [liveup web](https://github.com/KNehe/liveup_web)
 - 🌱 I’m currently learning Nginx and Docker
 - 💬 Ask me about anything related to Python and Django
 - ⚡ Fun fact: I completed nursery school in one year
