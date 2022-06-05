@@ -3,9 +3,7 @@
 ### Hi there 👋
 #### <iv>I'm Nehemiah, a devoted software developer who enjoys learning new skills that can be used to develop functional, appealing, custom-made web products and services.</div>  
 
-- 🔭 I’m currently working on [liveup api](https://github.com/KNehe/liveup_api
-) and [liveup web](https://github.com/KNehe/liveup_web)
-- 🌱 I’m currently learning Nginx and Docker
+- 🌱 I’m currently learning Docker
 - 💬 Ask me about anything related to Python and Django
 - ⚡ Fun fact: I completed nursery school in one year
 - ✍️ I love writing: Find my articles on [medium](https://medium.com/@Nehe_Kamolu)
@@ -41,7 +39,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
